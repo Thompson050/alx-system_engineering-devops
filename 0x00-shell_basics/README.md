@@ -1,1 +1,1 @@
-A script that delete the file betty. The file betty is in /tmp/my_first_directory
+A script that can delete the directory my_first_directory that is in the /tmp directory
