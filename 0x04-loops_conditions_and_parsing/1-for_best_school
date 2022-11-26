@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Using for loop to print a string
+for i in $(seq 1 10); do
+	echo "Best School"
+	i="$((i))"
+done;
